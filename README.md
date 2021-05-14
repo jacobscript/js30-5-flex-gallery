@@ -1,1 +1,1 @@
-# js30-5-flex-gallery
+#  image gallery with Flexbox, CSS transitions, and JS
